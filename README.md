@@ -1,1 +1,5 @@
-master, 1st version.
+A, 2nd version.
+
+
+function A() {
+}
