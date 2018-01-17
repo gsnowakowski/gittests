@@ -1,8 +1,8 @@
-B, 3rd version.
+B, 4th version.
 
 
-function A(int x) {
-  std::cout << x << std::endl;
+function A(int x, int y) {
+  std::cout << x << "," << y << std::endl;
 }
 
 function B(int y) {
