@@ -1,6 +1,9 @@
-A, 2nd version.
+B, 4th version.
 
 
-function A() {
-  std::cout << "Hello world" << std::endl;
+function A(int x, int y) {
+  std::cout << x << "," << y << std::endl;
+}
+
+function B(int y) {
 }
